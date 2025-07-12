@@ -37,6 +37,8 @@ img{
 .card img{
     padding-left: 75px;
     padding-top: 2px;
+    width:100%;
+    height:auto;
 }
 h3{
     padding-left: 25px;
