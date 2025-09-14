@@ -1,6 +1,6 @@
 # 🎨 Arts and Culture of India
 
-This project is a simple and elegant website that explores the diverse and vibrant **arts and cultural heritage of India**. It highlights various traditional Indian art forms and cultural practices through visually engaging content and clean layout using HTML and CSS.
+This project is a team project that won recognition in UI design for its clean, responsive, and visually engaging presentation. It is a simple and elegant website that explores the diverse and vibrant **arts and cultural heritage of India**. It highlights various traditional Indian art forms and cultural practices through visually engaging content and clean layout using HTML and CSS.
 
 ## 🌟 Project Highlights
 
@@ -19,4 +19,4 @@ This project is a simple and elegant website that explores the diverse and vibra
 - Custom styling with Flexbox layout
 
 
-
+Team Members: Panchakshari Matada & Pragna 
